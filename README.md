@@ -1,6 +1,6 @@
 ## Glad to have you here!
 
-I'm Sahar Mohsenzadeh Karimi, but feel free to call me Sahar 👋. I'm a PhD student in Atmospheric Science and Meteorology at the University of Arizona, specializing in developing innovative tools for climate risk assessment to tackle environmental challenges.
+I'm Sahar Mohsenzadeh Karimi, but feel free to call me Sahar 👋. I'm a PhD student in Atmospheric Science and Meteorology at the University of Arizona, specializing in developing tools for climate risk assessment to tackle environmental challenges.
 
 Feel free to reach out:
 
