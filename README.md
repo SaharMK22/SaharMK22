@@ -2,10 +2,6 @@
 
 I'm Sahar Mohsenzadeh Karimi, but feel free to call me Sahar 👋. I'm a PhD student in Atmospheric Science and Meteorology at the University of Arizona, specializing in developing tools for climate risk assessment to tackle environmental challenges.
 
-Feel free to reach out:
-
-Email: mkarimi@arizona.edu
-
 <!--
 **SaharMK22/SaharMK22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
